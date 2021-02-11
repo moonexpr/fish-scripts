@@ -2,7 +2,10 @@
 
 A repository of fish completion scripts which make my life easier.
 
-Completions:
+![](./image.png)
+
+Current scripts available:
+
 * Laravel Artisan PHP Script
 * Homestead Binary
 * Game (Steam Directory)
