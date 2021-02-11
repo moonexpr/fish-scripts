@@ -1,6 +1,6 @@
-## Useful Completitions
+## Fish scripts
 
-A repository of fish completion scripts which make my life easier.
+A repository of various different fish scripts which make my life easier.
 
 ![](./image.png)
 
